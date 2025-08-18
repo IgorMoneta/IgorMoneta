@@ -1,14 +1,8 @@
-
-
 <h2 align="left">About Me</h2>
 
 ###
 
-<p align="left">Analista de dados <br>Desenvolvedor Python<br>SQL</p>
-
-###
-
-<h2 align="left">Status</h2>
+<p align="left">Analista de dados <br>Desenvolvedor Python<br>SQL<br>Power BI</p>
 
 ###
 
@@ -16,7 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=IgorMoneta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IgorMoneta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
 
 <h2 align="left">Techs</h2>
 
@@ -36,7 +29,23 @@
 
 ###
 
-<br clear="both">
+<h2 align="left">Social Medias</h2>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/igor-moneta-b7a4b8294" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/igor.moneta/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="igornunesmoneta26@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorMoneta/IgorMoneta/output/pacman-contribution-graph-dark.svg">
